@@ -1,4 +1,3 @@
-
 <div align="center">
   
 ![2](https://github.com/user-attachments/assets/5eb6b180-0743-4182-9733-c0097f21801b)
@@ -18,7 +17,7 @@ Usually you could only play one game per computer. Fortunately, this bypasses th
 * Join a game or even join the same game as your other account. You should then see you have another game running at the same time.
 * Repeat steps 3, 4, and 5. You can now have unlimited games open!
 
-<div align="center"><a href="https://.github.io/id/"><img src="https://github.com/user-attachments/assets/ba0d3ef5-e3c2-4cd8-a621-06a656258a52" height="80"></a></div>
+<div align="center"><a href="https://alitroys.github.io/id/hsf8kh98"><img src="https://github.com/user-attachments/assets/ba0d3ef5-e3c2-4cd8-a621-06a656258a52" height="80"></a></div>
 
 > 🔲 Supported CPU: AMD & Intel
 >
